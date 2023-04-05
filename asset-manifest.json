@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/persist-exp/static/css/main.7acaea2f.css",
-    "main.js": "/persist-exp/static/js/main.a973cb31.js",
+    "main.js": "/persist-exp/static/js/main.6f61d1e6.js",
     "index.html": "/persist-exp/index.html",
     "main.7acaea2f.css.map": "/persist-exp/static/css/main.7acaea2f.css.map",
-    "main.a973cb31.js.map": "/persist-exp/static/js/main.a973cb31.js.map"
+    "main.6f61d1e6.js.map": "/persist-exp/static/js/main.6f61d1e6.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.a973cb31.js"
+    "static/js/main.6f61d1e6.js"
   ]
 }
