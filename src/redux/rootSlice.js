@@ -2,7 +2,7 @@ import { createSlice } from "@reduxjs/toolkit";
 
 const rootSlice = createSlice({
     name: "tasks",
-    initialState: {clicks: 7},
+    initialState: {clicks: 7, addInfo: 'holera', trashInfo: 'someTrashValue'},
     reducers: {
       addClick(state, action) {state.clicks += 1;},
     },
